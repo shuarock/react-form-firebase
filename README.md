@@ -25,4 +25,4 @@ npm run build
 [demo](https://gndx-projects.firebaseapp.com/)
 
 ## Info
-[Create a contact Form with React + Firebase](https://gndx.co/formulario-de-contacto-con-react-firebase/)
+[Create a contact Form with React + Firebase](https://arepa.dev/formulario-de-contacto-con-react-firebase/)
